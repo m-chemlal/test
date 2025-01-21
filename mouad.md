@@ -18,3 +18,4 @@
 4. **Communication Bridge**:
     
     - BIOS acts as a bridge between the operating system and the hardware, providing basic drivers to operate devices like the keyboard and display before the OS takes over.
+# mouad
